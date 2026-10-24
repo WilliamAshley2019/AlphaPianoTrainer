@@ -9,3 +9,8 @@ https://github.com/schellingb/TinySoundFont
 
 This app was made for windows with visual studio using projucer juce version 8.0.12
 Tested and works in fl studio. 
+
+
+Notes: acts a bit like sid player on watch mode. However currently only 1 sound font default is piano howver a sf2 can be loaded as a soundfont player.
+
+Currently only 1 sound font can be loaded at a time. 
