@@ -14,3 +14,8 @@ Tested and works in fl studio.
 Notes: acts a bit like sid player on watch mode. However currently only 1 sound font default is piano howver a sf2 can be loaded as a soundfont player.
 
 Currently only 1 sound font can be loaded at a time. 
+
+
+TODO
+add midi channel selection to load a specific midi channel
+match midi channel name to set of GM or SF2 sounds to play when loading
