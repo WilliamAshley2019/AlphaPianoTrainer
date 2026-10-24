@@ -4,3 +4,8 @@ to help people know when to press the key. It works as a VST3 program taking mid
 
 TSF - tiny sound font player is incorporated into the plugin source via tsf.h and tsf.cpp which are under third party license as MIT licensed components. I will add a bit more
 info and link them shortly.
+
+https://github.com/schellingb/TinySoundFont
+
+This app was made for windows with visual studio using projucer juce version 8.0.12
+Tested and works in fl studio. 
